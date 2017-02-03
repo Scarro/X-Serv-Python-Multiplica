@@ -1,4 +1,5 @@
 #! /usr/bin/python
+#Sergio Carro Albarran
 #Programa en python que muestra por pantalla las 10 primeras tablas de multiplicar
 rango = range(1,11);
 
